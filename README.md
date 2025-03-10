@@ -67,6 +67,17 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
       ]
     }
   }
+
+
+    "playwright-server": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/Mac/workarea/techarge-projects/playwright-plus-python-mcp",
+        "run",
+        "playwright-server"
+      ]
+    }
   ```
 </details>
 
